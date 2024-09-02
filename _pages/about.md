@@ -27,3 +27,7 @@ Publications
   <img src="https://github.com/user-attachments/assets/be746492-44d2-4e41-ad46-bcc63ea53199" alt="" width="50" height="75">
 </figure>
 
+- - - 
+
+[CV](files/CV_Sujin Park_24_Sep.pdf)
+
