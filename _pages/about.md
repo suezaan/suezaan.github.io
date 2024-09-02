@@ -26,7 +26,7 @@ Publications
 
 
 <figure align="center">
-  <img width="200" height="300" src="https://github.com/suezaan/suezaan.github.io/journal_cover_bib.png" alt="">
+  <img width="200" height="300" src="https://github.com/suezaan/suezaan.github.io/journal_cover_bib" alt="">
 </figure>
 
 
