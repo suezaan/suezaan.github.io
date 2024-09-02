@@ -38,7 +38,7 @@ Publications
 
 CV
 ======
-<embed src="https://github.com/suezaan/suezaan.github.io/blob/b3111e42ff864f2f2b438b88b3a73514c21dfae8/files/CV_Sujin%20Park_24_Sep.pdf" width="1000" height="700" 
+<embed src="https://drive.google.com/file/d/1-c66Q_N0VgVMVndNrDGcVuav41fJXJPj/view?usp=sharing" width="1000" height="700" 
  type="application/pdf">
  
 <!--
