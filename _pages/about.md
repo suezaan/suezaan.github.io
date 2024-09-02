@@ -10,8 +10,7 @@ redirect_from:
 I am an incoming Cognitive Science Ph.D. student in [Greene Lab](https://greenelab.ucsd.edu/) at UC San Diego. I am particularly interested in using neuroimaging methods that can explain and predict **developmental trajectories** and **how our brain changes** across the life span. My research mainly focuses on fMRI and data-driven methodologies. Before joining Greene Lab, I studied cognitive neuroscience in [Human Affective Neuroscience (HumAN) Lab](https://www.affectiveneurosciencelab.com/) at Sungkyunkwan University, South Korea.
 
 
-
-
+- - -
 
 
 Publications
@@ -26,7 +25,7 @@ Publications
 
 
 <figure align="center">
-  <img width="200" height="300" src="[https://github.com/suezaan/suezaan.github.io/journal_cover_bib](https://github.com/user-attachments/assets/9cf2d9ff-0ed3-4471-ac55-b71bb7a2df4b)" alt="">
+  <img width="200" height="300" src="https://github.com/user-attachments/assets/9cf2d9ff-0ed3-4471-ac55-b71bb7a2df4b" alt="">
 </figure>
 
 
