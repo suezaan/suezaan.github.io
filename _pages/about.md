@@ -31,7 +31,7 @@ Publications
 
 CV
 ======
-<embed src="https://suezaan.github.io/files/CV_Sujin%Park_24_Sep.pdf" width="1000" height="700" 
+<embed src="https://suezaan.github.io/CV_Sujin%Park_24_Sep.pdf" width="1000" height="700" 
  type="application/pdf">
 <!--
 <object data="" width="1000" height="1000" type='application/pdf'></object>
