@@ -31,10 +31,12 @@ Publications
 
 CV
 ======
-<embed src="https://github.com/suezaan/suezaan.github.io/blob/518a29f00aae24dab2274ed169aa532326326534/files/CV_Sujin%20Park_24_Sep.pdf" width="1000" height="700" 
+<!--
+<embed src="https://suezaan.github.io/CV_Sujin%20Park_24_Sep.pdf" width="1000" height="700" 
  type="application/pdf">
+-->
+ <embed src="https://suezaan.github.io/CV_Sujin%20Park_24_Sep.pdf" type="application/pdf"/>
 
- 
 <!--
 <object data="" width="1000" height="1000" type='application/pdf'></object>
 -->
