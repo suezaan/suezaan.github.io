@@ -31,6 +31,4 @@ Publications
 ======
 **CV**
 
-
-<embed src="https://suezaan.github.io/CV_Sujin%20Park_24_Sep.pdf" type="application/pdf"/>
-
+<object data="https://suezaan/suezaan.github.io/files/CV_Sujin%20Park_24_Sep.pdf" width="1000" height="1000" type='application/pdf'></object>
