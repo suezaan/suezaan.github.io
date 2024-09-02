@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sujin Park"
+title                    : Sujin Park
 title_separator          : "-"
-name                     : &name "Sujin Park"
+name                     : Sujin Park
 description              : &description "personal description"
 url                      : "https://suezaan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
