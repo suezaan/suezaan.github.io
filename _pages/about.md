@@ -28,6 +28,3 @@ Publications
   <img width="200" height="300" src="https://github.com/user-attachments/assets/9cf2d9ff-0ed3-4471-ac55-b71bb7a2df4b" alt="">
 </figure>
 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
