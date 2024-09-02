@@ -32,5 +32,5 @@ Publications
 **CV**
 
 
-<embed src="https://github.com/suezaan/suezaan.github.io/blob/6c0f5c528f4c7ed9f72eb25ebd52acc16e6201bb/files/CV_Sujin%20Park_24_Sep.pdf" type="application/pdf"/>
+<embed src="https://suezaan.github.io/CV_Sujin%20Park_24_Sep.pdf" type="application/pdf"/>
 
