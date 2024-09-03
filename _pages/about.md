@@ -49,11 +49,14 @@ CV
 News
 ======
 
+_
 > # 2024
-> 08/23  master degree in cognitive neuroscience major conferred, Sungkyunkwan University, Seoul, South Korea <br>
-> 09/23  joining Cognitive Science department at UCSD as a Ph.D. student!
+> 08/23: master degree in cognitive neuroscience major conferred, Sungkyunkwan University, Seoul, South Korea <br>
+> 09/23: joining Cognitive Science department at UCSD as a Ph.D. student!
+_
 
+_
 > # 2023
-> 04/27  poster presentation at 2023 Social Affective Neuroscience Society (SANS) conference held in Santa Barbara - [poster link] <br>(https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing)
-> 11/09  poster presentation at [2023 Developmental Affective Neuroscience Symposium (DANS)](https://www.dans.pitt.edu/) held in Pittsburgh - [poster link](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing)
-
+> 04/27: poster presentation at 2023 Social Affective Neuroscience Society (SANS) conference held in Santa Barbara - [poster link] <br>(https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing)
+> 11/09: poster presentation at [2023 Developmental Affective Neuroscience Symposium (DANS)](https://www.dans.pitt.edu/) held in Pittsburgh - [poster link](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing)
+_
