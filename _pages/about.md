@@ -45,7 +45,11 @@ CV
 -->
  <embed src="https://suezaan.github.io/CV_Sujin%20Park_24_Sep.pdf" type="application/pdf"/>
 
-or you can also use this [link](https://drive.google.com/file/d/1l6_wdetdk-J_xHz6q1MDedzCAIs6VitF/view?usp=sharing)! 
-<!--
-<object data="" width="1000" height="1000" type='application/pdf'></object>
--->
+or you can also use this [link](https://drive.google.com/file/d/1l6_wdetdk-J_xHz6q1MDedzCAIs6VitF/view?usp=sharing)!
+
+<br/><br/>
+
+News
+======
+2024
+> 09.23: joining Cognitive Science department at UCSD as a Ph.D. student!
