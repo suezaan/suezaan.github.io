@@ -12,7 +12,7 @@ I am an incoming Cognitive Science Ph.D. student in [Greene Lab](https://greenel
 <br/>
 
 Research Interests 
-- biomarkders of neuropsychiatric disorders
+- biomarkers of neuropsychiatric disorders
 - functional network organization
 - predictive modeling, data clustering and integration
 
