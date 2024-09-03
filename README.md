@@ -1,4 +1,8 @@
-ME: for guide, see _pages/markdown.md
+ME: 
+
+
+1) for guide, see _pages/markdown.md
+2) 여러 줄 주석은 Ctrl + / 
 
 - - - 
 
