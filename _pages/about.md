@@ -39,17 +39,17 @@ Publications
 
 CV
 ======
-you can also use this [link](https://drive.google.com/file/d/1l6_wdetdk-J_xHz6q1MDedzCAIs6VitF/view?usp=sharing)!
 
-<!--
-<embed src="https://suezaan.github.io/CV_Sujin%20Park_24_Sep.pdf" width="1000" height="700" 
- type="application/pdf">
--->
  <embed src="https://suezaan.github.io/CV_Sujin%20Park_24_Sep.pdf" type="application/pdf"/>
+ you can also use this [link](https://drive.google.com/file/d/1l6_wdetdk-J_xHz6q1MDedzCAIs6VitF/view?usp=sharing)!
+
 
 <br/><br/>
 
 News
 ======
+
+
 2024
-> 09.23: joining Cognitive Science department at UCSD as a Ph.D. student!
+> <u>09/23</u>: joining Cognitive Science department at UCSD as a Ph.D. student!
+
