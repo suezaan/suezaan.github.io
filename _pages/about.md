@@ -48,11 +48,9 @@ CV
 
 News
 ======
-
-
-> # _2024_
+> # 2024
 > 08/23: master degree in cognitive neuroscience major conferred, Sungkyunkwan University, Seoul, South Korea <br><br>
-> 09/23: joining Cognitive Science department at UCSD as a Ph.D. student!
+> 09/23: joining the [Cognitive Science department](https://cogsci.ucsd.edu/graduates/phd-program/index.html) at UCSD as a Ph.D. student!
 
 
 
