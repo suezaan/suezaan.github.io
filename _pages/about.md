@@ -49,7 +49,7 @@ CV
 News
 ======
 > # 2024
-> 08/23: Graduation with Master degree in Psychology, SKKU <br><br>
+> 08/23: master degree in Psychology, SKKU <br><br>
 > 09/23: joining the [Cognitive Science department](https://cogsci.ucsd.edu/graduates/phd-program/index.html) @ UCSD
 
 
