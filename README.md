@@ -1,9 +1,9 @@
-ME: 
+for future ME: 
 
 
 1) for guide, see _pages/markdown.md
-2) 여러 줄 주석은 Ctrl + / 
-
+2) comment multiple lines: Ctrl + / 
+3) mostly, edit _pages/about.md
 - - - 
 
 # Academic Pages
