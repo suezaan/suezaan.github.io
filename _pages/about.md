@@ -24,15 +24,10 @@ Publications
 - <sup>*</sup> Equal author contribution
 
   
-1. **Park S**, Park D & Kim MJ (2023). Similarity in functional connectome architecture predicts teenage grit. _<span style='color: salmon;'> Social Cognitive and Affective Neuroscience </span>_ [[link](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1)]  
+1. **Park S**, Park D & Kim MJ (2023). Similarity in functional connectome architecture predicts teenage grit. _<span style='color: salmon;'> Social Cognitive and Affective Neuroscience </span>_ [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1)]  
 
 
-1. Yoo C<sup>*</sup>, **Park S**<sup>*</sup> & Kim MJ (2022). Structural connectome-based prediction of trait anxiety. _<span style='color: salmon;'> Brain Imaging and Behavior </span>_ [[link](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
-
-### 2. Yoo C<sup>\*</sup>, **Park S**<sup>\*</sup>, & Kim MJ (2022)  
-*Structural connectome-based prediction of trait anxiety.*  
-<sub><em>Brain Imaging and Behavior</em></sub> — Featured on the journal cover  
-[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2) | [Code](https://github.com/humaffectneurolab/StabSim_Grit)
+1. Yoo C<sup>*</sup>, **Park S**<sup>*</sup> & Kim MJ (2022). Structural connectome-based prediction of trait anxiety. _<span style='color: salmon;'> Brain Imaging and Behavior </span>_ [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2) | [Code](https://github.com/humaffectneurolab/StabSim_Grit)] **Featured on the journal cover**
 
 <!--
 <figure align="center">
@@ -61,3 +56,16 @@ News
 > # 2023
 > 04/27: poster presentation at 2023 Social Affective Neuroscience Society (SANS) conference held in Santa Barbara - [poster link](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing) <br><br>
 > 11/09: poster presentation at [2023 Developmental Affective Neuroscience Symposium (DANS)](https://www.dans.pitt.edu/) held in Pittsburgh - [poster link](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing)
+
+## News
+
+<!-- 2024 -->
+> <h4>2024</h4>  
+> 08/23: Master degree in Psychology, SKKU <br><br>
+> 09/23: Joining the <a href="https://cogsci.ucsd.edu/graduates/phd-program/index.html">Cognitive Science department</a> @ UCSD
+
+<!-- 2023 -->
+> <h4>2023</h4>  
+> 04/27: Poster presentation at 2023 Social Affective Neuroscience Society (SANS) conference held in Santa Barbara – <a href="https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing">poster link</a> <br><br>
+> 11/09: Poster presentation at <a href="https://www.dans.pitt.edu/">2023 Developmental Affective Neuroscience Symposium (DANS)</a> held in Pittsburgh – <a href="https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing">poster link</a>
+
