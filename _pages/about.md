@@ -29,6 +29,10 @@ Publications
 
 1. Yoo C<sup>*</sup>, **Park S**<sup>*</sup> & Kim MJ (2022). Structural connectome-based prediction of trait anxiety. _<span style='color: salmon;'> Brain Imaging and Behavior </span>_ [[link](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
 
+### 2. Yoo C<sup>\*</sup>, **Park S**<sup>\*</sup>, & Kim MJ (2022)  
+*Structural connectome-based prediction of trait anxiety.*  
+<sub><em>Brain Imaging and Behavior</em></sub> — Featured on the journal cover  
+[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2) | [Code](https://github.com/humaffectneurolab/StabSim_Grit)
 
 <!--
 <figure align="center">
