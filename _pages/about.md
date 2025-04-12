@@ -50,7 +50,7 @@ Publications
 1. **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P. (under review). Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health.
 
 
-1. Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D. (under review). Grit buffers against stress-induced physiological response. [Preprint]
+1. Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D. (under review). Grit buffers against stress-induced physiological response. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179063)
 
 <br/><br/>
 
