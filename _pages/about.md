@@ -24,10 +24,13 @@ Publications
 - <sup>*</sup> Equal author contribution
 
   
-1. **Park S**, Park D & Kim MJ (2023). Similarity in functional connectome architecture predicts teenage grit. _<span style='color: salmon;'> Social Cognitive and Affective Neuroscience </span>_ [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
+1. Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D. (in press). Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit. _<span style='color: salmon;'> Psychophysiology </span>_
+
+  
+1. **Park, S.**, Park, D., & Kim, M. J. (2023). Similarity in functional connectome architecture predicts teenage grit. _<span style='color: salmon;'> Social cognitive and affective neuroscience </span>_, 18(1), nsad047. [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
 
 
-1. Yoo C<sup>*</sup>, **Park S**<sup>*</sup> & Kim MJ (2022). Structural connectome-based prediction of trait anxiety. _<span style='color: salmon;'> Brain Imaging and Behavior </span>_ [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
+1. Yoo, C.<sup>*</sup>, **Park, S.<sup>*</sup>**, & Kim, M. J. (2022). Structural connectome-based prediction of trait anxiety. _<span style='color: salmon;'> Brain Imaging and Behavior </span>_, 16(6), 2467-2476. [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
 
 <!--
 <figure align="center">
