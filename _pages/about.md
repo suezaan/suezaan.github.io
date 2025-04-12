@@ -60,7 +60,7 @@ CV
 <embed 
   src="https://suezaan.github.io/CV_Sujin%20Park.pdf" 
   type="application/pdf" 
-  width="500px" 
+  width="600px" # I think this doesn't work
   height="400px"
 /> 
 <br>
