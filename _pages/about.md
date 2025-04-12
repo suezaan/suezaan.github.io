@@ -57,10 +57,10 @@ Publications
 CV
 ======
 
- <embed 
+<embed 
   src="https://suezaan.github.io/CV_Sujin%20Park.pdf" 
   type="application/pdf" 
-  width="300%" 
+  width="500px" 
   height="400px"
 /> 
 <br>
