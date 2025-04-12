@@ -53,6 +53,8 @@ Publications
 
 1. Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D. (under review). Grit buffers against stress-induced physiological response. [Preprint]
 
+<br/><br/>
+
 CV
 ======
 
