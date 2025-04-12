@@ -60,8 +60,8 @@ CV
  <embed 
   src="https://suezaan.github.io/CV_Sujin%20Park.pdf" 
   type="application/pdf" 
-  width="100%" 
-  height="800px"
+  width="150%" 
+  height="500px"
 /> 
 <br>
  you can also use this [link](https://drive.google.com/file/d/1sRfPiDVq5Y6GAWZtJmfIncLoezD_jUNK/view?usp=sharing)!
