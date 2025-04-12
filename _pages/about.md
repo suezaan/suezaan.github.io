@@ -23,7 +23,9 @@ Publications
 ======
 - <sup>*</sup> Equal author contribution
 
-  
+
+< Peer-reviewed Articles > 
+
 1. Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D. (in press). Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit. _<span style='color: salmon;'> Psychophysiology </span>_
 
   
