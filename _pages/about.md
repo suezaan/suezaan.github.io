@@ -72,8 +72,8 @@ CV
 News
 ======
 > # 2025
-> July-August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle! <br><br>
-> September: attending [Flux 2025](https://fluxsociety.org/2025-dublin/) in Dublin! 
+> July-August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle <br>
+> September: attending [Flux 2025](https://fluxsociety.org/2025-dublin/) in Dublin 
 
 
 
