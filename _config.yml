@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Sujin Park"
   pronouns         : "she/her/hers" # example: "she/her"  
-  bio              : "Cognitive Science Ph.D. student"
-  location         : "UC San Diego"
+  bio              : "Cognitive Science Ph.D. student @ UC San Diego"
+  location         : # "UC San Diego"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "sup031@ucsd.edu" 
