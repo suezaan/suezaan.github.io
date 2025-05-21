@@ -84,6 +84,6 @@ News
 
 
 ### 2023
-- April: poster presentation at 2023 Social Affective Neuroscience Society (SANS) conference held in Santa Barbara [poster](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing)
-- November: poster presentation at [2023 Developmental Affective Neuroscience Symposium (DANS)](https://www.dans.pitt.edu/) held in Pittsburgh [poster](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing)
+- April: poster presentation at 2023 Social Affective Neuroscience Society (SANS) conference held in Santa Barbara [[Poster]](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing)
+- November: poster presentation at [2023 Developmental Affective Neuroscience Symposium (DANS)](https://www.dans.pitt.edu/) held in Pittsburgh [[Poster]](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing)
 
