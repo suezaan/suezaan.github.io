@@ -58,7 +58,7 @@ CV
 ======
 
 <embed 
-  src="https://suezaan.github.io/CV_Sujin%20Park.pdf" 
+  src="https://suezaan.github.io/CV_Sujin%20Park_docx.pdf" 
   type="application/pdf" 
   width="600px"
   height="400px"
