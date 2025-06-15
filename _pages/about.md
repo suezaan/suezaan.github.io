@@ -72,14 +72,14 @@ CV
 News
 ======
 ### 2025
-- July–August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle 
-- September: attending [Flux 2025](https://fluxsociety.org/2025-dublin/) in Dublin [take a look at [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)!]
+- July–August: attending Neurohackademy in Seattle 
+- September: attending 2025 Flux 2025 in Dublin [take a look at [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)!]
 
 
 
 ### 2024
 - August: master degree in Psychology, SKKU 
-- September: joining the [Cognitive Science department](https://cogsci.ucsd.edu/graduates/phd-program/index.html) @ UCSD
+- September: joining the Cognitive Science department @ UCSD
 
 
 
