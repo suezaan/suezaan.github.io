@@ -84,6 +84,6 @@ News
 
 
 ### 2023
-- April: attending 2023 Social Affective Neuroscience Society in Santa Barbara [[Poster]](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing)
-- November: attending 2023 Developmental Affective Neuroscience Symposium in Pittsburgh [[Poster]](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing)
+- April: attending 2023 Social Affective Neuroscience Society (SANS) in Santa Barbara [[Poster]](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing)
+- November: attending 2023 Developmental Affective Neuroscience Symposium (DANS) in Pittsburgh [[Poster]](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing)
 
