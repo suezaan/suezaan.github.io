@@ -30,6 +30,9 @@ Publications
 
 < Peer-reviewed Articles > 
 
+1. Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D. (in press). Grit buffers against stress-induced physiological response. _<span style='color: salmon;'> Personality and Individual Differences</span>_.  [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179063)]
+
+  
 1. Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D. Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit. _<span style='color: salmon;'> Psychophysiology</span>_, 62: e70064. [[Full Text](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70064)] 
 
   
@@ -45,12 +48,12 @@ Publications
 -->
 <br/><br/>
 
-< In prep / Under Review >
+< Unpublished Articles >
 
 1. **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P. (under review). Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health.
 
 
-1. Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D. (under review). Grit buffers against stress-induced physiological response. [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179063)]
+1. Demeter, D. V., Feigelis, M., Badke D’Andrea, C., Ali, S. A., Baim, A. R., Koithan, E., Stearns, J., Zreik, S., Ahern, J., **Park, S.**, Chang, S. E., Miller, R. L., Hampton, J. M., Schlaggar, B. L., Marek, S., Gordon, E. M., Dosenbach, N. U. F., Gratton, C., Greene, D. J. (under review). Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
 
 <br/><br/>
 
