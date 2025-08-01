@@ -30,16 +30,16 @@ Publications
 
 < Peer-reviewed Articles > 
 
-1. <span style='color: #B069DB;'> Grit buffers against stress-induced physiological response </span> (in press). Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D., _Personality and Individual Differences_. [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179063)]
+1. <span style='color: #644d8a;'> Grit buffers against stress-induced physiological response </span> (in press). Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D., _Personality and Individual Differences_. [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179063)]
 
   
-1. <span style='color: #B069DB;'> Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit </span> (2025). Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D., _Psychophysiology_. [[Full Text](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70064)] 
+1. <span style='color: #644d8a;'> Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit </span> (2025). Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D., _Psychophysiology_. [[Full Text](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70064)] 
 
   
-1. <span style='color: #B069DB;'> Similarity in functional connectome architecture predicts teenage grit </span> (2023). **Park, S.**, Park, D., & Kim, M. J., _Social cognitive and affective neuroscience_. [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
+1. <span style='color: #644d8a;'> Similarity in functional connectome architecture predicts teenage grit </span> (2023). **Park, S.**, Park, D., & Kim, M. J., _Social cognitive and affective neuroscience_. [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
 
 
-1. <span style='color: #B069DB;'> Structural connectome-based prediction of trait anxiety </span> (2022). Yoo, C.<sup>*</sup>, **Park, S.<sup>*</sup>**, & Kim, M. J., _Brain Imaging and Behavior_. [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
+1. <span style='color: #644d8a;'> Structural connectome-based prediction of trait anxiety </span> (2022). Yoo, C.<sup>*</sup>, **Park, S.<sup>*</sup>**, & Kim, M. J., _Brain Imaging and Behavior_. [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
 
 <!--
 <figure align="center">
@@ -50,10 +50,10 @@ Publications
 
 < Unpublished Articles >
 
-1. <span style='color: lightskyblue;'> Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health </span> (under reivew). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P.
+1. <span style='color: #248a63;'> Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health </span> (under reivew). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P.
 
 
-1. <span style='color: lightskyblue;'> Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain </span> (under review). Demeter, D. V., Feigelis, M., Badke D’Andrea, C., Ali, S. A., Baim, A. R., Koithan, E., Stearns, J., Zreik, S., Ahern, J., **Park, S.**, Chang, S. E., Miller, R. L., Hampton, J. M., Schlaggar, B. L., Marek, S., Gordon, E. M., Dosenbach, N. U. F., Gratton, C., Greene, D. J. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
+1. <span style='color: #248a63;'> Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain </span> (under review). Demeter, D. V., Feigelis, M., Badke D’Andrea, C., Ali, S. A., Baim, A. R., Koithan, E., Stearns, J., Zreik, S., Ahern, J., **Park, S.**, Chang, S. E., Miller, R. L., Hampton, J. M., Schlaggar, B. L., Marek, S., Gordon, E. M., Dosenbach, N. U. F., Gratton, C., Greene, D. J. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
 
 <br/><br/>
 
