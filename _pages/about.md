@@ -30,16 +30,16 @@ Publications
 
 < Peer-reviewed Articles > 
 
-1. <span style='color: #644d8a;'> Grit buffers against stress-induced physiological response </span> (in press). Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D., _Personality and Individual Differences_. [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179063)]
+1. <span style='color: #6f5699;'> Grit buffers against stress-induced physiological response </span> (in press). Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D., _Personality and Individual Differences_. [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179063)]
 
   
-1. <span style='color: #644d8a;'> Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit </span> (2025). Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D., _Psychophysiology_. [[Full Text](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70064)] 
+1. <span style='color: #6f5699;'> Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit </span> (2025). Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D., _Psychophysiology_. [[Full Text](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70064)] 
 
   
-1. <span style='color: #644d8a;'> Similarity in functional connectome architecture predicts teenage grit </span> (2023). **Park, S.**, Park, D., & Kim, M. J., _Social cognitive and affective neuroscience_. [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
+1. <span style='color: #6f5699;'> Similarity in functional connectome architecture predicts teenage grit </span> (2023). **Park, S.**, Park, D., & Kim, M. J., _Social cognitive and affective neuroscience_. [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
 
 
-1. <span style='color: #644d8a;'> Structural connectome-based prediction of trait anxiety </span> (2022). Yoo, C.<sup>*</sup>, **Park, S.<sup>*</sup>**, & Kim, M. J., _Brain Imaging and Behavior_. [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
+1. <span style='color: #6f5699;'> Structural connectome-based prediction of trait anxiety </span> (2022). Yoo, C.<sup>*</sup>, **Park, S.<sup>*</sup>**, & Kim, M. J., _Brain Imaging and Behavior_. [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
 
 <!--
 <figure align="center">
