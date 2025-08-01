@@ -32,6 +32,8 @@ Publications
 
 1. Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D. (in press). Grit buffers against stress-induced physiological response. _<span style='color: salmon;'> Personality and Individual Differences</span>_.  [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179063)]
 
+1. <span style='color: #d896ff;'> Grit buffers against stress-induced physiological response </span> (in press). Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D. [[Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5179063)]
+
   
 1. Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D. Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit. _<span style='color: salmon;'> Psychophysiology</span>_, 62: e70064. [[Full Text](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70064)] 
 
