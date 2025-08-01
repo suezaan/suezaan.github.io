@@ -50,10 +50,10 @@ Publications
 
 < Unpublished Articles >
 
-1. <span style='color: #000000;'> Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health </span> (under reivew). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P.
+1. Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health (under reivew). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P.
 
 
-1. <span style='color: #000000;'> Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain </span> (under review). Demeter, D. V., Feigelis, M., Badke D’Andrea, C., Ali, S. A., Baim, A. R., Koithan, E., Stearns, J., Zreik, S., Ahern, J., **Park, S.**, Chang, S. E., Miller, R. L., Hampton, J. M., Schlaggar, B. L., Marek, S., Gordon, E. M., Dosenbach, N. U. F., Gratton, C., Greene, D. J. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
+1. Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain (under review). Demeter, D. V., Feigelis, M., Badke D’Andrea, C., Ali, S. A., Baim, A. R., Koithan, E., Stearns, J., Zreik, S., Ahern, J., **Park, S.**, Chang, S. E., Miller, R. L., Hampton, J. M., Schlaggar, B. L., Marek, S., Gordon, E. M., Dosenbach, N. U. F., Gratton, C., Greene, D. J. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
 
 <br/><br/>
 
@@ -75,7 +75,7 @@ CV
 News
 ======
 ### 2025
-- July–August: attending Neurohackademy in Seattle 
+- July–August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle 
 - September: attending 2025 Flux 2025 in Dublin [take a look at [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)!]
 
 
