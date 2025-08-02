@@ -48,7 +48,7 @@ Publications
 -->
 <br/><br/>
 
-< Unpublished Articles >
+< Unpublished Manuscripts >
 
 1. Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health (under reivew). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P.
 
