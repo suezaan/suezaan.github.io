@@ -36,7 +36,7 @@ Publications
 1. <span style='color: #695bd4;'> Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit </span> (2025). Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D., _Psychophysiology_. [[Full Text](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70064)] 
 
   
-1. <span style='color: #695bd4;'> Similarity in functional connectome architecture predicts teenage grit </span> (2023). **Park, S.**, Park, D., & Kim, M. J., _Social cognitive and affective neuroscience_. [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
+1. <span style='color: #695bd4;'> Similarity in functional connectome architecture predicts teenage grit </span> (2023). **Park, S.**, Park, D., & Kim, M. J., _Social Cognitive and Affective Neuroscience_. [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
 
 
 1. <span style='color: #695bd4;'> Structural connectome-based prediction of trait anxiety </span> (2022). Yoo, C.<sup>*</sup>, **Park, S.<sup>*</sup>**, & Kim, M. J., _Brain Imaging and Behavior_. [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
