@@ -75,7 +75,7 @@ CV
 News
 ======
 ### 2025
-- July–August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle 
+- July–August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle - check out our [Project Repo](https://github.com/NeuroHackademy2025/precision-paths) that curates PFM study information and subjects to date (shoutout to Jon and Elizabeth for amazing teamwork!)  
 - September: attending 2025 Flux 2025 in Dublin [take a look at [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)!]
 
 
