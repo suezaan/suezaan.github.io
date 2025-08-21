@@ -77,7 +77,7 @@ News
 ### 2025
 - July–August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle - check out our project [Github repo](https://github.com/NeuroHackademy2025/precision-paths) / [summary slides](https://docs.google.com/presentation/d/1HJ0MWlfA3SRCS6izPqH9STxzEKUupiQYGsJzuQueHgU/edit?slide=id.g373766c5e58_0_0#slide=id.g373766c5e58_0_0) that curates Precision Functional Mapping (PFM) studies information and subjects to date (shoutout to Jon and Elizabeth for amazing teamwork!)
 <p align="center">
-  <img src="https://github.com/NeuroHackademy2025/precision-paths/blob/main/PFM_data_explorer_demo.gif" alt="Demo" width="600"/>
+  <img src="https://github.com/NeuroHackademy2025/precision-paths/blob/main/PFM_data_explorer_demo.gif" alt="Demo" width="400"/>
 </p>
 - September: attending 2025 Flux 2025 in Dublin [take a look at [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)!]
 
