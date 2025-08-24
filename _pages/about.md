@@ -80,7 +80,7 @@ News
   <img src="https://github.com/suezaan/suezaan.github.io/raw/master/PFM_data_explorer_demo.gif" width="500" />
 </p>
 
-- September: attending 2025 Flux 2025 in Dublin [take a look at [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)!]
+- September: attending 2025 Flux 2025 in Dublin [[Poster](https://drive.google.com/file/d/15N6JxUvLY5qaYA1197f2_QD5MKGbTMRl/view?usp=sharing) / [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)]
 
 
 
