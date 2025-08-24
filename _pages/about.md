@@ -75,7 +75,7 @@ CV
 News
 ======
 ### 2025
-- July–August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle - check out our project that curates Precision Functional Mapping (PFM) studies information and subjects to date (shoutout to Jon and Elizabeth for amazing teamwork!) [[Github repo](https://github.com/NeuroHackademy2025/precision-paths) / [Summary slides](https://docs.google.com/presentation/d/1HJ0MWlfA3SRCS6izPqH9STxzEKUupiQYGsJzuQueHgU/edit?slide=id.g373766c5e58_0_0#slide=id.g373766c5e58_0_0) / [Presentation video](https://drive.google.com/file/d/1FnBzitp2AfnIoNNXDiPnqUM1hISUjj1R/view?usp=sharing)]
+- July–August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle - check out our project that curates openly available Precision Functional Mapping (PFM) studies information and subjects to date (shoutout to Jon and Elizabeth for amazing teamwork!) [[Github repo](https://github.com/NeuroHackademy2025/precision-paths) / [Summary slides](https://docs.google.com/presentation/d/1HJ0MWlfA3SRCS6izPqH9STxzEKUupiQYGsJzuQueHgU/edit?slide=id.g373766c5e58_0_0#slide=id.g373766c5e58_0_0) / [Presentation video](https://drive.google.com/file/d/1FnBzitp2AfnIoNNXDiPnqUM1hISUjj1R/view?usp=sharing)]
 <p align="center">
   <img src="https://github.com/suezaan/suezaan.github.io/raw/master/PFM_data_explorer_demo.gif" width="500" />
 </p>
