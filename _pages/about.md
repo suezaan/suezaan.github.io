@@ -57,8 +57,9 @@ Publications
 
 <br/><br/>
 
-CV [link](https://drive.google.com/file/d/1T-INPUtuU6W48adlltdmECAftWOB3v9L/view?usp=sharing)
+CV 
 ======
+[link](https://drive.google.com/file/d/1T-INPUtuU6W48adlltdmECAftWOB3v9L/view?usp=sharing)
 
 <embed 
   src="https://suezaan.github.io/CV_Sujin%20Park.docx.pdf" 
