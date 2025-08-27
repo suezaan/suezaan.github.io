@@ -57,7 +57,7 @@ Publications
 
 <br/><br/>
 
-CV
+CV [link](https://drive.google.com/file/d/1T-INPUtuU6W48adlltdmECAftWOB3v9L/view?usp=sharing)
 ======
 
 <embed 
@@ -67,7 +67,6 @@ CV
   height="400px"
 /> 
 <br>
- you can also use this [link](https://drive.google.com/file/d/1T-INPUtuU6W48adlltdmECAftWOB3v9L/view?usp=sharing)!
 
 
 <br/><br/>
