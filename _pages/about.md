@@ -81,7 +81,7 @@ News
 </p>
 
 - September: attending 2025 Flux 2025 in Dublin [[Poster](https://drive.google.com/file/d/15N6JxUvLY5qaYA1197f2_QD5MKGbTMRl/view?usp=sharing) / [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)]
-  <sub><sup><em>Poster title: Characterizing Functional Brain Network Integration in the Basal Ganglia and Thalamus in Children with Tourette Syndrome</em></sup></sub>
+    <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Poster title: Characterizing functional brain network integration in the basal ganglia and thalamus in children with Tourette syndrome</em></span>
 
 
 
