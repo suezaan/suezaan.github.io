@@ -82,7 +82,6 @@ News
 
 - September: attending 2025 Flux 2025 in Dublin [[Poster](https://drive.google.com/file/d/15N6JxUvLY5qaYA1197f2_QD5MKGbTMRl/view?usp=sharing) / [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)]
   <sub><sup><em>Poster title: Individualized precision functional mapping in neurodevelopment</em></sup></sub>
-# <p style="font-size:80%; margin-top:4px;"><em>Poster title: Individualized precision functional mapping in neurodevelopment</em></p>
 
 
 
