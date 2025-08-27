@@ -85,12 +85,13 @@ News
 
 
 ### 2024
+- April: attending 2024 Social Affective Neuroscience Society (SANS) in Toronto [[Poster]](https://drive.google.com/drive/u/1/folders/1cIb6tYXsw-rvfaYfwre_xgG0rcmpopPw) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Poster title: Subtyping Environmental and Neurobiological Risk and Resilience Factors of Maternal Mental Health During the Perinatal Period</em></span>
 - August: master degree in Psychology, SKKU 
 - September: joining the Cognitive Science department @ UCSD
 
 
 
 ### 2023
-- April: attending 2023 Social Affective Neuroscience Society (SANS) in Santa Barbara [[Poster]](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing)
-- November: attending 2023 Developmental Affective Neuroscience Symposium (DANS) in Pittsburgh [[Poster]](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing)
+- April: attending 2023 Social Affective Neuroscience Society (SANS) in Santa Barbara [[Poster]](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Poster title: Similar Functional Connectome Architecture Predicts Teenage Grit</em></span>
+- November: attending 2023 Developmental Affective Neuroscience Symposium (DANS) in Pittsburgh [[Poster]](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Poster title: Linking neuroimaging-based features of normative structural and functional brain development in adolescents</em></span>
 
