@@ -80,16 +80,16 @@ News
   <img src="https://github.com/suezaan/suezaan.github.io/raw/master/PFM_data_explorer_demo.gif" width="500" />
 </p>
 
-- September: poster presentation for 2025 Flux 2025 in Dublin [[Poster](https://drive.google.com/file/d/15N6JxUvLY5qaYA1197f2_QD5MKGbTMRl/view?usp=sharing) / [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)] <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Characterizing functional brain network integration in the basal ganglia and thalamus in children with Tourette syndrome</em></span>
+- September: poster presentation at Flux in Dublin [[Poster](https://drive.google.com/file/d/15N6JxUvLY5qaYA1197f2_QD5MKGbTMRl/view?usp=sharing) / [Flux Trainee Spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)] <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Characterizing functional brain network integration in the basal ganglia and thalamus in children with Tourette syndrome</em></span>
 
 
 
 ### 2024
-- April: poster presentation for 2024 Social Affective Neuroscience Society (SANS) in Toronto [[Poster]](https://drive.google.com/drive/u/1/folders/1cIb6tYXsw-rvfaYfwre_xgG0rcmpopPw) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Subtyping Environmental and Neurobiological Risk and Resilience Factors of Maternal Mental Health During the Perinatal Period</em></span>
+- April: poster presentation at Social Affective Neuroscience Society (SANS) in Toronto [[Poster]](https://drive.google.com/drive/u/1/folders/1cIb6tYXsw-rvfaYfwre_xgG0rcmpopPw) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Subtyping Environmental and Neurobiological Risk and Resilience Factors of Maternal Mental Health During the Perinatal Period</em></span>
 
 
 
 ### 2023
-- April: poster presentation for 2023 Social Affective Neuroscience Society (SANS) in Santa Barbara [[Poster]](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Similar Functional Connectome Architecture Predicts Teenage Grit</em></span>
-- November: poster presentation for 2023 Developmental Affective Neuroscience Symposium (DANS) in Pittsburgh [[Poster]](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Linking neuroimaging-based features of normative structural and functional brain development in adolescents</em></span>
+- April: poster presentation at Social Affective Neuroscience Society (SANS) in Santa Barbara [[Poster]](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Similar Functional Connectome Architecture Predicts Teenage Grit</em></span>
+- November: poster presentation at Developmental Affective Neuroscience Symposium (DANS) in Pittsburgh [[Poster]](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Linking neuroimaging-based features of normative structural and functional brain development in adolescents</em></span>
 
