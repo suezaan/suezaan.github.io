@@ -90,6 +90,6 @@ News
 
 
 ### 2023
-- April: [poster]((https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing)) presentation at Social Affective Neuroscience Society (SANS) in Santa Barbara <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Similar Functional Connectome Architecture Predicts Teenage Grit</em></span>
+- April: [poster](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing) presentation at Social Affective Neuroscience Society (SANS) in Santa Barbara <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Similar Functional Connectome Architecture Predicts Teenage Grit</em></span>
 - November: [poster](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing) presentation at Developmental Affective Neuroscience Symposium (DANS) in Pittsburgh <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Linking neuroimaging-based features of normative structural and functional brain development in adolescents</em></span>
 
