@@ -7,10 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. I am particularly interested in using neuroimaging methods that can explain and predict **developmental trajectories** and **how our brain changes** across the life span. Currently, my research focuses on using precision functional mapping (PFM) to capture accurate brain measures and idiosyncracies in individuals. As a researcher, my long-term goal is to facilitate identification of at-risk children and allow early intervention in these population. 
+I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. I am particularly interested in using neuroimaging methods that can explain and predict **developmental trajectories** and **how our brain changes** across the life span. 
 
 
-To do this, I use various data-driven methods and algorithms such as subtyping, predictive modeling, representational similarity analysis to study individual differences. Before joining Greene Lab, I studied cognitive neuroscience in [Human Affective Neuroscience (HumAN) Lab](https://www.affectiveneurosciencelab.com/) (PI: Dr. Justin Minue Kim) at Sungkyunkwan University, South Korea.
+Currently, my research focuses on using precision functional mapping (PFM) to capture accurate brain measures and idiosyncracies in individuals. As a researcher, my long-term goal is to facilitate identification of at-risk children and allow early intervention in these population. 
+
+
+To do this, I have used various data-driven methods and algorithms such as subtyping, predictive modeling, representational similarity analysis. Before joining Greene Lab, I studied cognitive neuroscience in [Human Affective Neuroscience (HumAN) Lab](https://www.affectiveneurosciencelab.com/) (PI: Dr. Justin Minue Kim) at Sungkyunkwan University, South Korea.
 
 <br/>
 
