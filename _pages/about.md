@@ -18,9 +18,9 @@ To do this, I have used various data-driven methods and algorithms such as subty
 <br/>
 
 Research Interests 
-- biomarkers of neuropsychiatric disorders
-- identification of at-risk population
-- predictive modeling, data clustering and integration
+- risk and resilience factors during development
+- biomarkers of neuropsychiatric disorders (MRI, EEG)
+- multimodal data analysis, predictive modeling
 
   
 <br/><br/>
