@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. I am particularly interested in using neuroimaging methods that can explain and predict **developmental trajectories** and **how our brain changes** across the life span. 
+I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. I am particularly interested in data analysis and using neuroimaging methods that can explain and predict **developmental trajectories** and **how our brain changes** across the life span. 
 
 
 Currently, my research focuses on using precision functional mapping (PFM) to capture accurate brain measures and idiosyncracies in individuals. As a researcher, my long-term goal is to facilitate identification of at-risk children and allow early intervention in these population. 
