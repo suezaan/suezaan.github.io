@@ -22,7 +22,7 @@ Below are summary of my publication related to biomarkers.
 <br/><img width="686" height="207" alt="image" src="https://github.com/user-attachments/assets/56196d0d-1fa7-424a-a762-113710874906" /><br/>
 <small>Schematic summary of IS-RSA (left) and intersubject similarity matrix (right) showing individuals with high grit scores are more likely to exhibit a converging pattern of whole-brain functional connectivity while a watching movie.</small>
 
-<br/><br/>
+<br/>
 
 ### Physiological Markers
 - Higher resting-state heart rate variability (HRV) in people who tend to appraise situations more positively and persevere amidst setbacks [(Yoo, Kim et al., 2025)](https://doi.org/10.1111/psyp.70064)
