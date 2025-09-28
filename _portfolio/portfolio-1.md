@@ -4,7 +4,7 @@ excerpt: "short description <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-My research focuses primarily on identifying biomarkers of health diseases from mental health to neurodevelopmental disorders. I have used various methods such as structural/functional magnetic resonance imaging (MRI), heart rate variability (HRV), and recently working on a collaborative project to look at electroencephalogram (EEG) data to examine excitation-inhibition ratio. Below are summary of my publication related to biomarkers. 
+My research focuses primarily on identifying biomarkers of health diseases from mental health to neurodevelopmental disorders. I have used various methods such as **structural/functional magnetic resonance imaging (MRI), heart rate variability (HRV)**, and recently working on a collaborative project to look at **electroencephalogram (EEG)** data to examine excitation-inhibition ratio. Below are summary of my publication related to biomarkers. 
 
 
 MRI
