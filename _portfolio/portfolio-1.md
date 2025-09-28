@@ -1,7 +1,6 @@
 ---
 title: "Neural/Physiological Biomarkers"
-excerpt: "Projects related to predicting health outcomes using neuroimaging and physiological data <br/><<img width="585" height="141" alt="image" src="https://github.com/user-attachments/assets/57082336-4a44-46e2-af1e-e3a93c7fcb0f" />
->"
+excerpt: 'Projects related to predicting health outcomes using neuroimaging and physiological data <br/><img width="585" height="141" alt="image" src="https://github.com/user-attachments/assets/57082336-4a44-46e2-af1e-e3a93c7fcb0f" />'
 collection: portfolio
 ---
 
