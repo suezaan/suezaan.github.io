@@ -15,4 +15,4 @@ Specifically, I am interested in the interaction of the cortex and the basal gan
 <small>Workflow of 2025 Flux poster titled "Characterizing functional brain network integration in the basal ganglia and thalamus in children with Tourette syndrome"<small/>
 
 
-There are lots of exciting future avenues with this topic such as including recently identified Somato-cognitive Action Network (SCAN), disentanling the roles of AMN/CON and SCAN contributing to transformation of intention to move to actual execution of action. 
+There are lots of exciting future avenues such as including recently identified Somato-cognitive Action Network (SCAN), disentanling the roles of AMN/CON and SCAN contributing to transformation of intention to move to actual execution of action. 
