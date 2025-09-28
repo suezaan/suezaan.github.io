@@ -1,6 +1,7 @@
 ---
 title: "Neural/Physiological Biomarkers"
-excerpt: "Projects related to predicting health outcomes using neuroimaging and physiological data <br/><img src='/images/500x300.png'>"
+excerpt: "Projects related to predicting health outcomes using neuroimaging and physiological data <br/><<img width="585" height="141" alt="image" src="https://github.com/user-attachments/assets/57082336-4a44-46e2-af1e-e3a93c7fcb0f" />
+>"
 collection: portfolio
 ---
 
@@ -12,11 +13,11 @@ My research focuses primarily on identifying biomarkers of health diseases from 
 <br/><img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c8bfd162-cb4f-4e82-b9d7-9e7ca02f3e45" /><br/>
 <small>Nodes and edges contributing to trait anxiety prediction in young adults (left brain plots) and correlations (right scatter plot) between actual and predicted trait anxiety scores.</small>
 
-- Intersubject-Representation Similarity Analysis (IS-RSA) on functional connectomes and grit score in children (11-19 years old) [(Park et al., 2023)](https://doi.org/10.1093/scan/nsad047)
+- Inter-subject Representation Similarity Analysis (IS-RSA) on functional connectomes and grit score in children (11-19 years old) [(Park et al., 2023)](https://doi.org/10.1093/scan/nsad047)
 <br/><img width="686" height="207" alt="image" src="https://github.com/user-attachments/assets/56196d0d-1fa7-424a-a762-113710874906" /><br/>
 <small>Schematic summary of IS-RSA (left) and intersubject similarity matrix (right) showing individuals with high grit scores are more likely to exhibit a converging pattern of whole-brain functional connectivity while a watching movie.</small>
 
-
+<br/><br/>
 
 
 ### Physiological Markers
