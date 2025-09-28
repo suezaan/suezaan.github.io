@@ -15,4 +15,8 @@ Specifically, I am interested in the interaction of the cortex and the basal gan
 <small>Workflow of 2025 Flux poster titled "Characterizing functional brain network integration in the basal ganglia and thalamus in children with Tourette syndrome"<small/>
 
 
-There are lots of exciting future avenues such as including recently identified Somato-cognitive Action Network (SCAN), disentanling the roles of AMN/CON and SCAN contributing to transformation of intention to move to actual execution of action. 
+There are lots of exciting future avenues such as 1) including recently identified Somato-cognitive Action Network (SCAN), putatively contributing to integrating goals, physiology and body movement [(Gordon et al., 2023)(https://www.nature.com/articles/s41586-023-05964-2)], and 2) disentanling the roles of AMN/CON and SCAN contributing to transformation of intention to move to actual execution of action. 
+
+<br/><img width="613" height="227" alt="image" src="https://github.com/user-attachments/assets/61d12609-c4c6-4cf3-8713-5b5e195e8883" />
+<small>Seed-map showing a strong interconnectedness among Somato-cognitive Action Network nodes punctutating the known 'homunculus' in the primary motor cortex (M1)<small/> 
+
