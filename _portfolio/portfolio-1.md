@@ -24,7 +24,6 @@ Below are summary of my publication related to biomarkers.
 
 <br/><br/>
 
-
 ### Physiological Markers
 - Higher resting-state heart rate variability (HRV) in people who tend to appraise situations more positively and persevere amidst setbacks [(Yoo, Kim et al., 2025)](https://doi.org/10.1111/psyp.70064)
 - Grit buffers against physiological stress responses, demontstrated by lower skin conductance response (SCR) in a challenging situation [(Jeon et al., 2025)](https://doi.org/10.1016/j.paid.2025.113390)
