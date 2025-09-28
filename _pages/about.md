@@ -18,9 +18,10 @@ To do this, I have used various data-driven methods and algorithms such as subty
 <br/>
 
 Research Interests 
-- risk and resilience factors during development
-- biomarkers of neuropsychiatric disorders (MRI, EEG)
+- neural/physiological biomarkers of neuropsychiatric disorders
+- motor-related functional brain networks (e.g., Action Mode/Cingulo-Opercular Network, Somato-cognitive Action Network)
 - multimodal data analysis, predictive modeling
+- risk and resilience factors during development
 
   
 <br/><br/>
