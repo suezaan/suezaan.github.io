@@ -17,6 +17,8 @@ Nodes and edges contributing to trait anxiety prediction in young adults (left b
 Schematic summary of IS-RSA (left) and intersubject similarity matrix (right) showing individuals with high grit scores are more likely to exhibit a converging pattern of whole-brain functional connectivity while a watching movie.
 
 
+
+
 ### Physiological Markers
 - Higher resting-state heart rate variability (HRV) in people who tend to appraise situations more positively and persevere amidst setbacks [(Yoo, Kim et al., 2025)](https://doi.org/10.1111/psyp.70064)
 - Grit buffers against physiological stress responses, demontstrated by lower skin conductance response (SCR) in a challenging situation [(Jeon et al., 2025)](https://doi.org/10.1016/j.paid.2025.113390)
