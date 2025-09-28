@@ -1,6 +1,6 @@
 ---
 title: "Motor Control in Children with Tic Disorders"
-excerpt: 'Projects related to motor-related functional brain networks <br/><img width="540" height="218" alt="image" src="https://github.com/user-attachments/assets/a3c2c39d-05d8-4e80-91b4-56ec7fbfd75e" />'
+excerpt: 'Projects related to motor-related functional brain networks <br/><img width="371" height="284" alt="image" src="https://github.com/user-attachments/assets/08768b34-0131-47e2-876a-707eff2b6845" />'
 collection: portfolio
 ---
 
