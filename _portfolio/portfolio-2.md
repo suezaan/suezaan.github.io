@@ -7,7 +7,7 @@ collection: portfolio
 My research focuses primarily on identifying biomarkers of well-being, mental health disorders. 
 
 
-So far, I have used various methods such as _structural/functional magnetic resonance imaging (MRI), heart rate variability (HRV), skin conductance Response (SCR)_, and I'm recently working on a collaborative project to look at _electroencephalogram (EEG)_ data to examine excitation-inhibition ratio. 
+So far, I have used various methods such as _structural/functional magnetic resonance imaging (MRI), heart rate variability (HRV), skin conductance Response (SCR)_.
 
 
 Below are summary of my publication related to biomarkers. 
