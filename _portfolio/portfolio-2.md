@@ -4,7 +4,7 @@ excerpt: 'Projects related to predicting health outcomes using neuroimaging and 
 collection: portfolio
 ---
 
-My research focuses primarily on identifying biomarkers of health diseases from mental health to neurodevelopmental disorders. 
+My research focuses primarily on identifying biomarkers of mental health and neurodevelopmental disorders. 
 
 
 So far, I have used various methods such as _structural/functional magnetic resonance imaging (MRI), heart rate variability (HRV), skin conductance Response (SCR)_, and recently working on a collaborative project to look at _electroencephalogram (EEG)_ data to examine excitation-inhibition ratio. 
