@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. I am particularly interested in biomarkers and using multimodal data to explain and predict **developmental trajectories** and **how our brain changes** across the life span. 
+I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. I am particularly interested in using brain/body signals to explain and predict well-being and health outcomes spanning from mental health to neurodevelopmental disorders. 
 
 
-Currently, my research focuses on using precision functional mapping (PFM) to capture accurate brain measures and idiosyncracies in individuals. As a researcher, my long-term goal as a researcher is to facilitate accessible interventions and guide personalized treatment helpful for at-risk population of health diseases. 
+I use various neural and physiological data of all kinds including magnetic resonance imaging (MRI), electroencephalogram (EEG) and heart rate. As a researcher, my long-term goal as a researcher is to facilitate access to effective interventions and guide personalized treatment helpful for at-risk population of health diseases. 
 
 
-To do this, I have used various data-driven methods such as subtyping, community detection algorithms, predictive modeling, representational similarity analysis. Before joining Greene Lab, I studied cognitive neuroscience in [Human Affective Neuroscience (HumAN) Lab](https://www.affectiveneurosciencelab.com/) (PI: Dr. Justin Minue Kim) at Sungkyunkwan University, South Korea.
+To do this, I have utilized data-driven methods such as subtyping, community detection algorithms, predictive modeling, representational similarity analysis. Before joining Greene Lab, I studied cognitive neuroscience in [Human Affective Neuroscience (HumAN) Lab](https://www.affectiveneurosciencelab.com/) (PI: Dr. Justin Minue Kim) at Sungkyunkwan University, South Korea.
 
 <br/>
 
