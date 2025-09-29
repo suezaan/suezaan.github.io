@@ -10,7 +10,7 @@ Previous research has shown that collecting highly-sampled functional MRI data, 
 Using children PFM datasets collected in our lab [(Demeter et al., preprint)](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1), I am doing research to explain the neural mechanism of involuntary, repetitive motor and vocal tics in kids with Tourette Syndrome diagnosis.
 
 
-Specifically, I am interested in the interaction between the cortex and the basal ganglia with a specific focus on Action Mode Network/Cingulo-opercular Network (AMN/CON). I recently presented at 2025 Flux with the preliminary results suggesting that Default Mode Network (DMN) and AMN/CON and their connections to the basal ganglia might underlie Tourette Syndrome diagnosis [(2025 Flux poster)](https://drive.google.com/file/d/15N6JxUvLY5qaYA1197f2_QD5MKGbTMRl/view?usp=sharing). 
+Specifically, I am interested in the interaction between the cortex and the basal ganglia with a specific focus on Action Mode Network/Cingulo-opercular Network (AMN/CON). I recently presented at 2025 Flux with the preliminary results suggesting that Default Mode Network (DMN) and AMN/CON and their connections to the basal ganglia and thalamus might underlie Tourette Syndrome diagnosis [(2025 Flux poster)](https://drive.google.com/file/d/15N6JxUvLY5qaYA1197f2_QD5MKGbTMRl/view?usp=sharing). 
 
 <br/><img width="613" height="373" alt="image" src="https://github.com/user-attachments/assets/91ef890c-b5e7-4c5f-8fc2-46fa8bfc89ad" /><br/>
 <small>Workflow of 2025 Flux poster titled "Characterizing functional brain network integration in the basal ganglia and thalamus in children with Tourette syndrome"<small/>
