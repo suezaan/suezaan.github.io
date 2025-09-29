@@ -4,7 +4,7 @@ excerpt: 'Projects related to predicting health outcomes using neuroimaging and 
 collection: portfolio
 ---
 
-My research focuses primarily on identifying biomarkers of mental health and neurodevelopmental disorders. 
+My research focuses primarily on identifying biomarkers of well-being, mental health and neurodevelopmental disorders. 
 
 
 So far, I have used various methods such as _structural/functional magnetic resonance imaging (MRI), heart rate variability (HRV), skin conductance Response (SCR)_, and recently working on a collaborative project to look at _electroencephalogram (EEG)_ data to examine excitation-inhibition ratio. 
@@ -18,7 +18,7 @@ Below are summary of my publication related to biomarkers.
 <br/><img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/c8bfd162-cb4f-4e82-b9d7-9e7ca02f3e45" /><br/>
 <small>Nodes and edges contributing to trait anxiety prediction in young adults (left brain plots) and correlations (right scatter plot) between actual and predicted trait anxiety scores.</small>
 
-- Inter-subject Representation Similarity Analysis (IS-RSA) on functional connectomes and grit score in children (11-19 years old) [(Park et al., 2023)](https://doi.org/10.1093/scan/nsad047)
+- Inter-subject Representation Similarity Analysis (IS-RSA) on functional connectomes and grit scores in children (11-19 years old) [(Park et al., 2023)](https://doi.org/10.1093/scan/nsad047)
 <br/><img width="686" height="207" alt="image" src="https://github.com/user-attachments/assets/56196d0d-1fa7-424a-a762-113710874906" /><br/>
 <small>Schematic summary of IS-RSA (left) and intersubject similarity matrix (right) showing individuals with high grit scores are more likely to exhibit a converging pattern of whole-brain functional connectivity while a watching movie.</small>
 
