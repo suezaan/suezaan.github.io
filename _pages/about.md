@@ -13,7 +13,7 @@ Hi, I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neu
 I am particularly interested in using **brain/body signals to explain and predict well-being and health outcomes** spanning from mental health to neurodevelopmental disorders. As a researcher, my long-term goal as a researcher is to facilitate access to effective interventions and guide personalized treatment helpful for at-risk population of health diseases. 
 
 
-To do this, I use various neural and physiological data of all kinds including magnetic resonance imaging (MRI), electroencephalogram (EEG) and heart rate along with data-driven methods such as subtyping, community detection algorithms, predictive modeling and representational similarity analysis. 
+To do this, I use various neural and physiological data of all kinds including magnetic resonance imaging (MRI), electroencephalogram (EEG) and heart rate along with **machine learning, predictive modeling, subtyping, and topological data analysis**.
 
 <br/>
 
