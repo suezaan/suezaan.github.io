@@ -79,21 +79,21 @@ CV
 Highlights
 ======
 ### 2025
-- July–August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle - check out our project that curates openly available Precision Functional Mapping (PFM) studies information and subjects to date [[Github repo](https://github.com/NeuroHackademy2025/precision-paths) / [Summary slides](https://docs.google.com/presentation/d/1HJ0MWlfA3SRCS6izPqH9STxzEKUupiQYGsJzuQueHgU/edit?slide=id.g373766c5e58_0_0#slide=id.g373766c5e58_0_0) / [Presentation video](https://drive.google.com/file/d/1FnBzitp2AfnIoNNXDiPnqUM1hISUjj1R/view?usp=sharing)]
+- July–August: attending [Neurohackademy](https://neurohackademy.org/) (Seattle, USA) - check out our project that curates openly available Precision Functional Mapping (PFM) studies information and subjects to date [[Github repo](https://github.com/NeuroHackademy2025/precision-paths) / [Summary slides](https://docs.google.com/presentation/d/1HJ0MWlfA3SRCS6izPqH9STxzEKUupiQYGsJzuQueHgU/edit?slide=id.g373766c5e58_0_0#slide=id.g373766c5e58_0_0) / [Presentation video](https://drive.google.com/file/d/1FnBzitp2AfnIoNNXDiPnqUM1hISUjj1R/view?usp=sharing)]
 <p align="center">
   <img src="https://github.com/suezaan/suezaan.github.io/raw/master/PFM_data_explorer_demo.gif" width="500" />
 </p>
 
-- September: [poster](https://drive.google.com/file/d/15N6JxUvLY5qaYA1197f2_QD5MKGbTMRl/view?usp=sharing) presentation at Flux in Dublin [[Flux trainee spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)] <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Characterizing functional brain network integration in the basal ganglia and thalamus in children with Tourette syndrome</em></span>
+- September: [poster](https://drive.google.com/file/d/15N6JxUvLY5qaYA1197f2_QD5MKGbTMRl/view?usp=sharing) presentation @ Flux (Dublin, Ireland) [[Flux trainee spotlight](https://fluxsociety.org/flux-trainee-spotlight-sujin-park/)] <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Characterizing functional brain network integration in the basal ganglia and thalamus in children with Tourette syndrome</em></span>
 
 
 
 ### 2024
-- April: [poster](https://drive.google.com/file/d/1UGKle6aQIGniizyGpGMVjdt8yB793T_4/view?usp=sharing) presentation at Social Affective Neuroscience Society (SANS) in Toronto <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Subtyping Environmental and Neurobiological Risk and Resilience Factors of Maternal Mental Health During the Perinatal Period</em></span>
+- April: [poster](https://drive.google.com/file/d/1UGKle6aQIGniizyGpGMVjdt8yB793T_4/view?usp=sharing) presentation @ Social Affective Neuroscience Society (SANS) (Toronto, Canada) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Subtyping Environmental and Neurobiological Risk and Resilience Factors of Maternal Mental Health During the Perinatal Period</em></span>
 
 
 
 ### 2023
-- April: [poster](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing) presentation at Social Affective Neuroscience Society (SANS) in Santa Barbara <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Similar Functional Connectome Architecture Predicts Teenage Grit</em></span>
-- November: [poster](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing) presentation at Developmental Affective Neuroscience Symposium (DANS) in Pittsburgh <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Linking neuroimaging-based features of normative structural and functional brain development in adolescents</em></span>
+- April: [poster](https://drive.google.com/file/d/1_jEd_SRCptGs65YDoX575Um8ja8Vp35e/view?usp=sharing) presentation @ Social Affective Neuroscience Society (SANS) (Santa Barbara, USA) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Similar Functional Connectome Architecture Predicts Teenage Grit</em></span>
+- November: [poster](https://drive.google.com/file/d/1uk2vlWdMPewK6UTHK8EPSaF3rkIWoxE4/view?usp=sharing) presentation @ Developmental Affective Neuroscience Symposium (DANS) (Pittsburgh, USA) <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Title: Linking neuroimaging-based features of normative structural and functional brain development in adolescents</em></span>
 
