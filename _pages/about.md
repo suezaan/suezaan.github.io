@@ -76,7 +76,7 @@ CV
 
 <br/><br/>
 
-News
+Highlights
 ======
 ### 2025
 - July–August: attending [Neurohackademy](https://neurohackademy.org/) in Seattle - check out our project that curates openly available Precision Functional Mapping (PFM) studies information and subjects to date [[Github repo](https://github.com/NeuroHackademy2025/precision-paths) / [Summary slides](https://docs.google.com/presentation/d/1HJ0MWlfA3SRCS6izPqH9STxzEKUupiQYGsJzuQueHgU/edit?slide=id.g373766c5e58_0_0#slide=id.g373766c5e58_0_0) / [Presentation video](https://drive.google.com/file/d/1FnBzitp2AfnIoNNXDiPnqUM1hISUjj1R/view?usp=sharing)]
