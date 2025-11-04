@@ -60,12 +60,6 @@ Publications
 1. Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain (under review). Demeter, D. V., Feigelis, M., Badke D’Andrea, C., Ali, S. A., Baim, A. R., Koithan, E., Stearns, J., Zreik, S., Ahern, J., **Park, S.**, Chang, S. E., Miller, R. L., Hampton, J. M., Schlaggar, B. L., Marek, S., Gordon, E. M., Dosenbach, N. U. F., Gratton, C., Greene, D. J. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
 
 
-1. Ali, S. A., Demeter, D. V., Feigelis, M., Zreik, S., Baim, A. R., Koithan, E. M., Ahern, J., Chang, S. E., **Park, S.**, Marek, S., Gordon, E. M., & Greene, D. J. (in prep). Cross-age reproducibility of functional brain network organization in childhood and adulthood. 
-
-
-1. Baim, A. R., Zreik, S., Ahern, J., Chang, S. E., Ali, S. A., Koithan, E. M., **Park, S.**, Feigelis, M., Demeter, D. V., & Greene, D. J. (in prep). Precision functional mapping in children with Tourette syndrome: A feasibility study.
-
-
 <br/><br/>
 
 CV 
