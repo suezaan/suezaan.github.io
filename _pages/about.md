@@ -34,6 +34,9 @@ Publications
 
 < Peer-reviewed Articles > 
 
+1. <span style='color: #695bd4;'> Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health (in press). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P., _Translational Psychiatry_.
+
+
 1. <span style='color: #695bd4;'> Grit buffers against stress-induced physiological response </span> (2025). Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D., _Personality and Individual Differences_. [[Full Text](https://www.sciencedirect.com/science/article/pii/S0191886925003526)]
 
   
@@ -54,10 +57,14 @@ Publications
 
 < Unpublished Manuscripts >
 
-1. Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health (under reivew). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P.
-
-
 1. Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain (under review). Demeter, D. V., Feigelis, M., Badke D’Andrea, C., Ali, S. A., Baim, A. R., Koithan, E., Stearns, J., Zreik, S., Ahern, J., **Park, S.**, Chang, S. E., Miller, R. L., Hampton, J. M., Schlaggar, B. L., Marek, S., Gordon, E. M., Dosenbach, N. U. F., Gratton, C., Greene, D. J. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
+
+
+1. Ali, S. A., Demeter, D. V., Feigelis, M., Zreik, S., Baim, A. R., Koithan, E. M., Ahern, J., Chang, S. E., Park, S., Marek, S., Gordon, E. M., & Greene, D. J. (in prep). Cross-age reproducibility of functional brain network organization in childhood and adulthood. 
+
+
+1. Baim, A. R., Zreik, S., Ahern, J., Chang, S. E., Ali, S. A., Koithan, E. M., Park, S., Feigelis, M., Demeter, D. V., & Greene, D. J. (in prep). Precision functional mapping in children with Tourette syndrome: A feasibility study.
+
 
 <br/><br/>
 
