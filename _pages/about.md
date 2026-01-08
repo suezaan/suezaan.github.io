@@ -34,7 +34,7 @@ Publications
 
 < Peer-reviewed Articles > 
 
-1. <span style='color: #695bd4;'> Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health </span> (2025). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P., _Translational Psychiatry_. [[Full Text](https://www.nature.com/articles/s41398-025-03755-z)]
+1. <span style='color: #695bd4;'> Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health </span> (in press). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P., _Translational Psychiatry_. [[Full Text](https://www.nature.com/articles/s41398-025-03755-z)]
 
 
 1. <span style='color: #695bd4;'> Grit buffers against stress-induced physiological response </span> (2025). Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D., _Personality and Individual Differences_. [[Full Text](https://www.sciencedirect.com/science/article/pii/S0191886925003526)]
