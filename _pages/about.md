@@ -10,7 +10,7 @@ redirect_from:
 Hi, I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. Before joining Greene Lab, I studied cognitive neuroscience in [Human Affective Neuroscience (HumAN) Lab](https://www.affectiveneurosciencelab.com/) (PI: Dr. Justin Minue Kim) at Sungkyunkwan University, South Korea.
 
 
-I am particularly interested in using **brain/body signals to explain and predict well-being and health outcomes** spanning from mental health to neurodevelopmental disorders. My long-term goal as a researcher is to facilitate access to effective interventions and guide personalized treatment helpful for at-risk population of health diseases. 
+I am particularly interested in using **neurophysiological biomarkers to explain and predict well-being and health outcomes** spanning from mental health to neurodevelopmental disorders. My long-term goal as a researcher is to facilitate access to effective interventions and guide personalized treatment helpful for at-risk population of health diseases. 
 
 
 To do this, I use various neural and physiological data of all kinds including magnetic resonance imaging (MRI), electroencephalogram (EEG) and heart rate along with **machine learning, predictive modeling, subtyping, and topological data analysis**.
