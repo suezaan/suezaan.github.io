@@ -23,8 +23,8 @@ Research Interests
 - multimodal data analysis, predictive modeling
 - risk and resilience factors during development
 
-  
-<br/><br/>
+---  
+<br/>
 
 Publications
 ======
@@ -59,8 +59,8 @@ Publications
 
 1. Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain (under review). Demeter, D. V., Feigelis, M., Badke D’Andrea, C., Ali, S. A., Baim, A. R., Koithan, E., Stearns, J., Zreik, S., Ahern, J., **Park, S.**, Chang, S. E., Miller, R. L., Hampton, J. M., Schlaggar, B. L., Marek, S., Gordon, E. M., Dosenbach, N. U. F., Gratton, C., Greene, D. J. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
 
-
-<br/><br/>
+---
+<br/>
 
 Highlights
 ======
