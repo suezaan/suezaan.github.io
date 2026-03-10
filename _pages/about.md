@@ -65,7 +65,7 @@ Publications
 Highlights
 ======
 ### 2026
-- July: attending [RIKEN CBS Summer Program](https://cbs.riken.jp/en/summer/) lecture course on 'Development and Disorders: Genes, Networks, and Behavior Across Life' (RIKEN Center for Brain Science, Japan)!
+- July: attending [RIKEN Center for Brain Science Summer Program](https://cbs.riken.jp/en/summer/) lecture course on _Development and Disorders: Genes, Networks, and Behavior Across Life_ in Japan!
 
 
 
