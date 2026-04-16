@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. Before joining Greene Lab, I studied cognitive neuroscience in [Human Affective Neuroscience Lab](https://www.affectiveneurosciencelab.com/) (PI: Dr. Justin Minue Kim) at Sungkyunkwan University, South Korea. I am a Korea Foundation for Advanced Studies (KFAS) Overseas PhD Fellow.
+Hi, I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. Before joining Greene Lab, I studied cognitive neuroscience in [Human Affective Neuroscience Lab](https://www.affectiveneurosciencelab.com/) (PI: Dr. Justin Minue Kim) at Sungkyunkwan University, South Korea. My research is funded by 2026 California Initiative to Advance Precision Medicine (CIAPM) Doctoral Student Representative Precision Medicine Research ($170k over 2.5 year project term) and 2024 Korea Foundation for Advanced Studies (KFAS) Overseas Ph.D. Scholarship ($13k/year expected over 5 years).
 
 
 I am particularly interested in using **neurophysiological biomarkers to explain and predict well-being and health outcomes** spanning from mental health to neurodevelopmental disorders. My long-term goal as a researcher is to facilitate access to effective interventions and guide personalized treatment helpful for at-risk population of health diseases. 
