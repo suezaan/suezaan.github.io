@@ -68,8 +68,6 @@ Publications
 Highlights
 ======
 ### 2026
-- Apr: selected as an awardee for Doctoral Student
-Representative Precision Medicine Research ($170,000 over 2.5 year project term) from [California Initiative to Advance Precision Medicine (CIAPM)](https://ciapm.chhs.ca.gov/)! 
 - July: attending [RIKEN Center for Brain Science Summer Program](https://cbs.riken.jp/en/summer/) lecture course on _Development and Disorders: Genes, Networks, and Behavior Across Life_ in Japan!
 
 
