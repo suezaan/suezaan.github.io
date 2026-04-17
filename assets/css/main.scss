@@ -40,11 +40,11 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-a {
+.page__content a {
   color: #14A69F; /* links: teal */
 }
 
-a:hover {
+.page__content a:hover {
   color: #0e7c77; /* hover: darker teal */
 }
 
