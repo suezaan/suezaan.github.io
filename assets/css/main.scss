@@ -41,11 +41,11 @@
 @import "print";
 
 .page__content {
-  color: #000000; /* normal text → pure black */
+  color: black; /* normal text: pure black */
 }
 
 .page__content a {
-  color: #14A69F; /* links: teal */
+  color: #76A787; /* links: teal 14A69F */
 }
 
 .page__content a:hover {
@@ -53,12 +53,12 @@
 }
 
 ::selection {
-  background: #EEE4F5;   /* text highlight color */
+  background: #FAF2FF;   /* text highlight color: EEE4F5 */
   color: black;          /* text color when selected */
 }
 
 ::-moz-selection {
-  background: #14A69F;
+  background: #76A787;
   color: white;
 }
 
