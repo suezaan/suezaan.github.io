@@ -20,12 +20,6 @@ To do this, I use various neural and physiological data of all kinds including m
 
 <br/>
 
-Research Interests 
-- neural/physiological biomarkers of neuropsychiatric disorders
-- network neuroscience
-- multimodal data analysis, predictive modeling
-- risk and resilience factors during development
-
 ---  
 <br/>
 
