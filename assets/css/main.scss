@@ -43,8 +43,16 @@
 /* Custom link colors */
 a {
   color: #14A69F;
+  text-decoration: none;
 }
 
 a:hover {
   color: #FBF5FF;
+  text-decoration: underline;
+}
+
+/* Navbar fix */
+.masthead__menu-item a:hover {
+  color: #a4161a;
+  text-decoration: none;
 }
