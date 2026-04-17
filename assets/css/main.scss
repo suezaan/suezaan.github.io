@@ -40,42 +40,21 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* General links */
 a {
-  color: #14A69F;
-  text-decoration: none;
+  color: #14A69F; /* links: teal */
 }
 
 a:hover {
-  color: #0e7c77; /* darker teal */
-  text-decoration: underline;
+  color: #0e7c77; /* hover: darker teal */
 }
 
-/* Navbar */
-.masthead__menu-item a {
-  position: relative;
-  text-decoration: none;
-  color: #14A69F;
+::selection {
+  background: #14A69F;   /* text highlight color */
+  color: white;          /* text color when selected */
 }
 
-/* Navbar hover text */
-.masthead__menu-item a:hover {
-  color: #14A69F;
-  text-decoration: none;
+::-moz-selection {
+  background: #14A69F;
+  color: white;
 }
 
-/* Underline animation */
-.masthead__menu-item a::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -3px;
-  width: 0%;
-  height: 2px;
-  background-color: #14A69F;
-  transition: width 0.3s ease;
-}
-
-.masthead__menu-item a:hover::after {
-  width: 100%;
-}
