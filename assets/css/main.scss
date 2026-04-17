@@ -40,6 +40,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+.page__content {
+  color: #000000;
+}
+
 .page__content a {
   color: #14A69F; /* links: teal */
 }
@@ -49,7 +53,7 @@
 }
 
 ::selection {
-  background: #E3E1F5;   /* text highlight color */
+  background: #EEE4F5;   /* text highlight color */
   color: black;          /* text color when selected */
 }
 
