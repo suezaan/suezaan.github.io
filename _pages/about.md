@@ -10,7 +10,7 @@ redirect_from:
 Hi, I'm a Cognitive Science Ph.D. student in [Greene Developmental Cognitive Neuroscience Lab](https://greenelab.ucsd.edu/) (PI: Dr. Deanna Greene) at UC San Diego. Before joining Greene Lab, I studied cognitive neuroscience in [Human Affective Neuroscience Lab](https://www.affectiveneurosciencelab.com/) (PI: Dr. Justin Minue Kim) at Sungkyunkwan University, South Korea. 
 
 
-My research on biomarkers of neuropsychiatric disorders is funded by California Initiative to Advance Precision Medicine (CIAPM) [Doctoral Student Representative Precision Medicine Research](https://ciapm.chhs.ca.gov/activity/research/representative_research/index.html) ($170k over project term) and [Korea Foundation for Advanced Studies (KFAS) Overseas Ph.D. Scholarship](https://eng.kfas.or.kr/theme/kfaschanel/intl_scholarship_5.php) ($65k expected over 5 years).
+My research on biomarkers of neuropsychiatric disorders is funded by California Initiative to Advance Precision Medicine (CIAPM) [Doctoral Student Representative Precision Medicine Research](https://ciapm.chhs.ca.gov/activity/research/representative_research/index.html) and [Korea Foundation for Advanced Studies (KFAS) Overseas Ph.D. Scholarship](https://eng.kfas.or.kr/theme/kfaschanel/intl_scholarship_5.php).
 
 
 I am particularly interested in using **neurophysiological biomarkers to explain and predict well-being and health outcomes** spanning from mental health to neurodevelopmental disorders. My long-term goal as a researcher is contribute to precision health to facilitate access to effective interventions and guide personalized treatment helpful for at-risk population of health diseases. 
