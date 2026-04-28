@@ -31,7 +31,7 @@ Publications
 
 < Peer-reviewed Articles > 
 
-1. <span style='color: #695bd4;'> Benchmarking functional brain network organization in childhood and its similarity to adults (2026). Ali, S. A., Demeter, D. V., Baim, A. R., Koithan, E., Feigelis, M., Zreik, S., Ahern, J., Chang, S. E., **Park, S.**, Gordon, E. M., Marek, S., Greene, D. J., _Frontiers in Neuroimaging_. [[Full Text](https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1818662/full)]
+1. <span style='color: #695bd4;'> Benchmarking functional brain network organization in childhood and its similarity to adults </span> (2026). Ali, S. A., Demeter, D. V., Baim, A. R., Koithan, E., Feigelis, M., Zreik, S., Ahern, J., Chang, S. E., **Park, S.**, Gordon, E. M., Marek, S., Greene, D. J., _Frontiers in Neuroimaging_. [[Full Text](https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1818662/full)]
 
 
 1. <span style='color: #695bd4;'> Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health </span> (2026). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P., _Translational Psychiatry_. [[Full Text](https://www.nature.com/articles/s41398-025-03755-z)]
