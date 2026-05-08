@@ -31,22 +31,22 @@ Publications
 
 < Peer-reviewed Articles > 
 
-1. <span style='color: #695bd4;'> Benchmarking functional brain network organization in childhood and its similarity to adults </span> (2026). Ali, S. A., Demeter, D. V., Baim, A. R., Koithan, E., Feigelis, M., Zreik, S., Ahern, J., Chang, S. E., **Park, S.**, Gordon, E. M., Marek, S., Greene, D. J., _Frontiers in Neuroimaging_. [[Full Text](https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1818662/full)]
+1. <span style='color: #695bd4;'> Benchmarking functional brain network organization in childhood and its similarity to adults </span> (2026). Ali SA, Demeter DV, Baim AR, Koithan EM, Feigelis M, Zreik S, Ahern J, Chang SE, **Park S**, Gordon EM, Marek S, Greene DJ. _Frontiers in Neuroimaging_. [[Full Text](https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1818662/full)]
 
 
-1. <span style='color: #695bd4;'> Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health </span> (2026). **Park, S.**, Patterson, G., Gudiño, O. G., Kim, M. J., Kim, P., _Translational Psychiatry_. [[Full Text](https://www.nature.com/articles/s41398-025-03755-z)]
+1. <span style='color: #695bd4;'> Identifying subtypes based on environmental and neurobiological risk and resilience factors of postpartum maternal mental health </span> (2026). **Park S**, Patterson G, Gudiño OG, Kim MJ, Kim P. _Translational Psychiatry_. [[Full Text](https://www.nature.com/articles/s41398-025-03755-z)]
 
 
-1. <span style='color: #695bd4;'> Grit buffers against stress-induced physiological response </span> (2025). Jeon, J., Yoo, C., **Park, S.**, Kim, B., Yoo, J., Kim, M. J., Park D., _Personality and Individual Differences_. [[Full Text](https://www.sciencedirect.com/science/article/pii/S0191886925003526)]
-
-  
-1. <span style='color: #695bd4;'> Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit </span> (2025). Yoo, J.<sup>*</sup>, Kim, B.<sup>*</sup>, **Park, S.**, Jeon, J., Yoo, C., Kim, M. J., Park D., _Psychophysiology_. [[Full Text](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70064)] 
+1. <span style='color: #695bd4;'> Grit buffers against stress-induced physiological response </span> (2025). Jeon J, Yoo C, **Park S**, Kim B, Yoo J, Kim MJ, Park D. _Personality and Individual Differences_. [[Full Text](https://www.sciencedirect.com/science/article/pii/S0191886925003526)]
 
   
-1. <span style='color: #695bd4;'> Similarity in functional connectome architecture predicts teenage grit </span> (2023). **Park, S.**, Park, D., & Kim, M. J., _Social Cognitive and Affective Neuroscience_. [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
+1. <span style='color: #695bd4;'> Gritty heart: Improved heart rate variability markers of adaptive physiological response in grit </span> (2025). Yoo J<sup>*</sup>, Kim B<sup>*</sup>, **Park S**, Jeon J, Yoo C, Kim MJ, Park D. _Psychophysiology_. [[Full Text](https://onlinelibrary.wiley.com/doi/10.1111/psyp.70064)] 
+
+  
+1. <span style='color: #695bd4;'> Similarity in functional connectome architecture predicts teenage grit </span> (2023). **Park S**, Park D, Kim MJ. _Social Cognitive and Affective Neuroscience_. [[Full Text](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsad047/7272592?searchresult=1) / [Code](https://github.com/humaffectneurolab/StabSim_Grit)]  
 
 
-1. <span style='color: #695bd4;'> Structural connectome-based prediction of trait anxiety </span> (2022). Yoo, C.<sup>*</sup>, **Park, S.<sup>*</sup>**, & Kim, M. J., _Brain Imaging and Behavior_. [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
+1. <span style='color: #695bd4;'> Structural connectome-based prediction of trait anxiety </span> (2022). Yoo C<sup>*</sup>, **Park S<sup>*</sup>**, & Kim MJ. _Brain Imaging and Behavior_. [[Full Text](https://link.springer.com/article/10.1007/s11682-022-00700-2)] **Featured on the journal cover**
 
 <!--
 <figure align="center">
@@ -57,7 +57,7 @@ Publications
 
 < Unpublished Manuscripts >
 
-1. Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain (under review). Demeter, D. V., Feigelis, M., Badke D’Andrea, C., Ali, S. A., Baim, A. R., Koithan, E., Stearns, J., Zreik, S., Ahern, J., **Park, S.**, Chang, S. E., Miller, R. L., Hampton, J. M., Schlaggar, B. L., Marek, S., Gordon, E. M., Dosenbach, N. U. F., Gratton, C., Greene, D. J. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
+1. Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain (under review). Demeter DV, Feigelis M, Badke D’Andrea C, Ali SA, Baim AR, Koithan E, Stearns J, Zreik S, Ahern J, **Park S**, Chang SE, Miller RL, Hampton JM, Schlaggar BL, Marek S, Gordon EM, Dosenbach NUF, Gratton C, Greene DJ. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
 
 ---
 <br/>
