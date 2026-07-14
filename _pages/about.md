@@ -66,7 +66,7 @@ Highlights
 ======
 ### 2026
 - April: awarded the California Initiative to Advance Precision Medicine Doctoral Student
-Representative Research [[Public announcement](https://www.linkedin.com/posts/suezaan_im-thrilled-to-share-that-i-was-awarded-ugcPost-7481791416927531009-CpBy/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADyoOnoBeXLn0c2DTb3kgNpM4Sje7bmimA4)]
+Representative Research [[Press release](https://www.chhs.ca.gov/blog/2026/07/10/california-awards-1-8-million-to-support-next-generation-of-precision-medicine-researchers/)]
 - July: attending [RIKEN Center for Brain Science Summer Program](https://cbs.riken.jp/en/summer/) lecture course on _Development and Disorders: Genes, Networks, and Behavior Across Life_ in Japan!
 
 
