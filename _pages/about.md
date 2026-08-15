@@ -66,7 +66,7 @@ Highlights
 ======
 ### 2026
 - April: selected as an awardee of Next-Gen Representative Research Program by the California Health and Human Services Agency [[Press release](https://www.chhs.ca.gov/blog/2026/07/10/california-awards-1-8-million-to-support-next-generation-of-precision-medicine-researchers/)] <br> <span style="display:block; font-size:0.9em; margin-top:0.25rem;"><em>Project Title: Precision-fMRI Guided Biomarkers of Tourette Syndrome in Youth</em></span> 
-- July: attending [RIKEN Center for Brain Science Summer Program](https://cbs.riken.jp/en/summer/) lecture course on _Development and Disorders: Genes, Networks, and Behavior Across Life_ in Japan!
+- July: attending [RIKEN Center for Brain Science Summer Program](https://cbs.riken.jp/en/summer/) lecture course on _Development and Disorders: Genes, Networks, and Behavior Across Life_ in Japan! [[Essay](https://cbs.riken.jp/en/articles/summer2026-report1.html)]
 
 
 
