@@ -31,6 +31,9 @@ Publications
 
 < Peer-reviewed Articles > 
 
+1. <span style='color: #695bd4;'> Brain-heart coupling in tourette syndrome: a precision functional mapping study of discordant siblings </span> (2026). Ali SA, Demeter DV, Baim AR, Ahern J, Ben Ahn JH, Chang SE, Koithan EM, Park S, Smarr BL, Greene DJ. _Frontiers in Network Physiology_. [[Full Text](https://doi.org/10.3389/fnetp.2026.1881914)]
+
+ 
 1. <span style='color: #695bd4;'> Benchmarking functional brain network organization in childhood and its similarity to adults </span> (2026). Ali SA, Demeter DV, Baim AR, Koithan EM, Feigelis M, Zreik S, Ahern J, Chang SE, **Park S**, Gordon EM, Marek S, Greene DJ. _Frontiers in Neuroimaging_. [[Full Text](https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1818662/full)]
 
 
