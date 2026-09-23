@@ -31,7 +31,10 @@ Publications
 
 < Peer-reviewed Articles > 
 
-1. <span style='color: #695bd4;'> Brain-heart coupling in tourette syndrome: a precision functional mapping study of discordant siblings </span> (2026). Ali SA, Demeter DV, Baim AR, Ahern J, Ben Ahn JH, Chang SE, Koithan EM, Park S, Smarr BL, Greene DJ. _Frontiers in Network Physiology_. [[Full Text](https://doi.org/10.3389/fnetp.2026.1881914)]
+1. <span style='color: #695bd4;'> Characterizing brain network topography in children with precision neuroimaging. </span> (accepted). Demeter DV, Feigelis M, Badke D’Andrea C, Ali SA, Baim AR, Koithan E, Stearns J, Zreik S, Ahern J, **Park S**, Chang SE, Miller RL, Hampton JM, Schlaggar BL, Marek S, Gordon EM, Dosenbach NUF, Gratton C, Greene DJ. _Nature Neuroscience_. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
+
+
+1. <span style='color: #695bd4;'> Brain-heart coupling in tourette syndrome: a precision functional mapping study of discordant siblings </span> (2026). Ali SA, Demeter DV, Baim AR, Ahern J, Ben Ahn JH, Chang SE, Koithan EM, **Park S**, Smarr BL, Greene DJ. _Frontiers in Network Physiology_. [[Full Text](https://doi.org/10.3389/fnetp.2026.1881914)]
 
  
 1. <span style='color: #695bd4;'> Benchmarking functional brain network organization in childhood and its similarity to adults </span> (2026). Ali SA, Demeter DV, Baim AR, Koithan EM, Feigelis M, Zreik S, Ahern J, Chang SE, **Park S**, Gordon EM, Marek S, Greene DJ. _Frontiers in Neuroimaging_. [[Full Text](https://www.frontiersin.org/journals/neuroimaging/articles/10.3389/fnimg.2026.1818662/full)]
@@ -57,10 +60,6 @@ Publications
 </figure>
 -->
 <br/>
-
-< Unpublished Manuscripts >
-
-1. Precision functional mapping reveals less inter-individual variability in the child vs. adult human brain (under review). Demeter DV, Feigelis M, Badke D’Andrea C, Ali SA, Baim AR, Koithan E, Stearns J, Zreik S, Ahern J, **Park S**, Chang SE, Miller RL, Hampton JM, Schlaggar BL, Marek S, Gordon EM, Dosenbach NUF, Gratton C, Greene DJ. [[Preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665760v1)]
 
 ---
 <br/>
