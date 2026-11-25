@@ -1,6 +1,6 @@
 ---
 title: "Neural/Physiological Biomarkers"
-excerpt: 'Can we predict the developmental/clinical outcomes with signals from the brain and body? <br/><img width="585" height="141" alt="image" src="/images/portfolio2_fig.png" />'
+excerpt: 'Can we predict the developmental/clinical outcomes with signals from the brain and body? <br/><img width="600" height="160" alt="image" src="/images/portfolio2_fig.png" />'
 collection: portfolio
 ---
 
