@@ -1,10 +1,10 @@
 ---
 title: "Neural/Physiological Biomarkers"
-excerpt: 'Projects related to predicting health outcomes using neuroimaging and physiological data <br/><img width="585" height="141" alt="image" src="https://github.com/user-attachments/assets/57082336-4a44-46e2-af1e-e3a93c7fcb0f" />'
+excerpt: 'Can we use predict the developmental/clinical outcomes with signals from the brain and body? <br/><img width="585" height="141" alt="image" src="https://github.com/user-attachments/assets/57082336-4a44-46e2-af1e-e3a93c7fcb0f" />'
 collection: portfolio
 ---
 
-My research focuses primarily on identifying biomarkers of well-being, mental health disorders. 
+The overarching goal of my research is to identify biomarkers of developmental outcomes, including clinical symptoms as well as the physical and mental challenges that present significant life burdens.
 
 
 So far, I have used various methods such as _structural/functional magnetic resonance imaging (MRI), heart rate variability (HRV), skin conductance response (SCR)_ data.
