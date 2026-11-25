@@ -1,6 +1,6 @@
 ---
 title: "Refinement of Motor Networks in the Brain during Development"
-excerpt: 'How does the brain learn to orchestrate complex movements? <br/><img width="371" height="284" alt="image" src="/images/portfolio1_fig.png" />'
+excerpt: 'How does the brain learn to orchestrate complex movements? <br/><img width="500" height="400" alt="image" src="/images/portfolio1_fig.png" />'
 collection: portfolio
 ---
 
