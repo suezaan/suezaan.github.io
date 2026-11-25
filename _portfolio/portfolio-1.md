@@ -16,7 +16,7 @@ Specifically, I am interested in the interaction between the cortex and the basa
 <small>Workflow of 2025 Flux poster titled "Characterizing functional brain network integration in the basal ganglia and thalamus in children with Tourette syndrome"<small/>
 
 
-This would allow us to further probe the neural mechanism of involuntary, repetitive motor and vocal tics in kids with Tourette Syndrome diagnosis. Besides PFM data. I am also participating in a project to look at the excitation-inhibition (E:I) ratio using electroencephalogram (EEG) data before and after first-line clinical intervention of Tourettes in collaboration with [Voytek Lab](https://voyteklab.com/).
+This would allow us to further probe the neural mechanism of involuntary, repetitive motor and vocal tics in kids with Tourette Syndrome diagnosis. Besides PFM data, I am also participating in a project investigating the excitation-inhibition (E:I) ratio using electroencephalogram (EEG) data collected before and after first-line clinical intervention of Tourettes in collaboration with [Voytek Lab](https://voyteklab.com/).
 
 
 There are still lots of exciting future avenues in this topic, such as 1) including recently identified Somato-cognitive Action Network (SCAN), putatively known to contribute to integrating goals, physiology and body movement [(Gordon et al., 2023)](https://www.nature.com/articles/s41586-023-05964-2), and 2) disentangling motor networks collectively transform the urge or intention to move to actual execution of action.
